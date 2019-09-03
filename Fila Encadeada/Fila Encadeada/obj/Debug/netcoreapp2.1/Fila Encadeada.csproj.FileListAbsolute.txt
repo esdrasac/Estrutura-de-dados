@@ -9,3 +9,14 @@ C:\GitHub\Exercícios POO\Fila Encadeada\Fila Encadeada\obj\Debug\netcoreapp2.1\
 C:\GitHub\Exercícios POO\Fila Encadeada\Fila Encadeada\obj\Debug\netcoreapp2.1\Fila Encadeada.AssemblyInfo.cs
 C:\GitHub\Exercícios POO\Fila Encadeada\Fila Encadeada\obj\Debug\netcoreapp2.1\Fila Encadeada.dll
 C:\GitHub\Exercícios POO\Fila Encadeada\Fila Encadeada\obj\Debug\netcoreapp2.1\Fila Encadeada.pdb
+C:\GitHub\Estrutura de dados\Fila Encadeada\Fila Encadeada\bin\Debug\netcoreapp2.1\Fila Encadeada.deps.json
+C:\GitHub\Estrutura de dados\Fila Encadeada\Fila Encadeada\bin\Debug\netcoreapp2.1\Fila Encadeada.runtimeconfig.json
+C:\GitHub\Estrutura de dados\Fila Encadeada\Fila Encadeada\bin\Debug\netcoreapp2.1\Fila Encadeada.runtimeconfig.dev.json
+C:\GitHub\Estrutura de dados\Fila Encadeada\Fila Encadeada\bin\Debug\netcoreapp2.1\Fila Encadeada.dll
+C:\GitHub\Estrutura de dados\Fila Encadeada\Fila Encadeada\bin\Debug\netcoreapp2.1\Fila Encadeada.pdb
+C:\GitHub\Estrutura de dados\Fila Encadeada\Fila Encadeada\obj\Debug\netcoreapp2.1\Fila Encadeada.csprojAssemblyReference.cache
+C:\GitHub\Estrutura de dados\Fila Encadeada\Fila Encadeada\obj\Debug\netcoreapp2.1\Fila Encadeada.csproj.CoreCompileInputs.cache
+C:\GitHub\Estrutura de dados\Fila Encadeada\Fila Encadeada\obj\Debug\netcoreapp2.1\Fila Encadeada.AssemblyInfoInputs.cache
+C:\GitHub\Estrutura de dados\Fila Encadeada\Fila Encadeada\obj\Debug\netcoreapp2.1\Fila Encadeada.AssemblyInfo.cs
+C:\GitHub\Estrutura de dados\Fila Encadeada\Fila Encadeada\obj\Debug\netcoreapp2.1\Fila Encadeada.dll
+C:\GitHub\Estrutura de dados\Fila Encadeada\Fila Encadeada\obj\Debug\netcoreapp2.1\Fila Encadeada.pdb

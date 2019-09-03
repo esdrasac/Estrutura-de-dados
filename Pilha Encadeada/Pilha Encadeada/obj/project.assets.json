@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Estrutura de dados\\Fila Encadeada\\Fila Encadeada\\Fila Encadeada.csproj",
-      "projectName": "Fila Encadeada",
-      "projectPath": "C:\\GitHub\\Estrutura de dados\\Fila Encadeada\\Fila Encadeada\\Fila Encadeada.csproj",
+      "projectUniqueName": "C:\\GitHub\\Estrutura de dados\\Pilha Encadeada\\Pilha Encadeada\\Pilha Encadeada.csproj",
+      "projectName": "Pilha Encadeada",
+      "projectPath": "C:\\GitHub\\Estrutura de dados\\Pilha Encadeada\\Pilha Encadeada\\Pilha Encadeada.csproj",
       "packagesPath": "C:\\Users\\esdra\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\Estrutura de dados\\Fila Encadeada\\Fila Encadeada\\obj\\",
+      "outputPath": "C:\\GitHub\\Estrutura de dados\\Pilha Encadeada\\Pilha Encadeada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

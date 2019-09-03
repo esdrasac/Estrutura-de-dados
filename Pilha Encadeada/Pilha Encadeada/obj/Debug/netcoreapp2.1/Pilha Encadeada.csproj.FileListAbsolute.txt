@@ -1,0 +1,11 @@
+C:\GitHub\Estrutura de dados\Pilha Encadeada\Pilha Encadeada\bin\Debug\netcoreapp2.1\Pilha Encadeada.deps.json
+C:\GitHub\Estrutura de dados\Pilha Encadeada\Pilha Encadeada\bin\Debug\netcoreapp2.1\Pilha Encadeada.runtimeconfig.json
+C:\GitHub\Estrutura de dados\Pilha Encadeada\Pilha Encadeada\bin\Debug\netcoreapp2.1\Pilha Encadeada.runtimeconfig.dev.json
+C:\GitHub\Estrutura de dados\Pilha Encadeada\Pilha Encadeada\bin\Debug\netcoreapp2.1\Pilha Encadeada.dll
+C:\GitHub\Estrutura de dados\Pilha Encadeada\Pilha Encadeada\bin\Debug\netcoreapp2.1\Pilha Encadeada.pdb
+C:\GitHub\Estrutura de dados\Pilha Encadeada\Pilha Encadeada\obj\Debug\netcoreapp2.1\Pilha Encadeada.csprojAssemblyReference.cache
+C:\GitHub\Estrutura de dados\Pilha Encadeada\Pilha Encadeada\obj\Debug\netcoreapp2.1\Pilha Encadeada.csproj.CoreCompileInputs.cache
+C:\GitHub\Estrutura de dados\Pilha Encadeada\Pilha Encadeada\obj\Debug\netcoreapp2.1\Pilha Encadeada.AssemblyInfoInputs.cache
+C:\GitHub\Estrutura de dados\Pilha Encadeada\Pilha Encadeada\obj\Debug\netcoreapp2.1\Pilha Encadeada.AssemblyInfo.cs
+C:\GitHub\Estrutura de dados\Pilha Encadeada\Pilha Encadeada\obj\Debug\netcoreapp2.1\Pilha Encadeada.dll
+C:\GitHub\Estrutura de dados\Pilha Encadeada\Pilha Encadeada\obj\Debug\netcoreapp2.1\Pilha Encadeada.pdb
