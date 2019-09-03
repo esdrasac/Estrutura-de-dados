@@ -1,0 +1,11 @@
+C:\GitHub\Exercícios POO\MyFila\MyFila\bin\Debug\netcoreapp2.1\MyFila.deps.json
+C:\GitHub\Exercícios POO\MyFila\MyFila\bin\Debug\netcoreapp2.1\MyFila.runtimeconfig.json
+C:\GitHub\Exercícios POO\MyFila\MyFila\bin\Debug\netcoreapp2.1\MyFila.runtimeconfig.dev.json
+C:\GitHub\Exercícios POO\MyFila\MyFila\bin\Debug\netcoreapp2.1\MyFila.dll
+C:\GitHub\Exercícios POO\MyFila\MyFila\bin\Debug\netcoreapp2.1\MyFila.pdb
+C:\GitHub\Exercícios POO\MyFila\MyFila\obj\Debug\netcoreapp2.1\MyFila.csprojAssemblyReference.cache
+C:\GitHub\Exercícios POO\MyFila\MyFila\obj\Debug\netcoreapp2.1\MyFila.csproj.CoreCompileInputs.cache
+C:\GitHub\Exercícios POO\MyFila\MyFila\obj\Debug\netcoreapp2.1\MyFila.AssemblyInfoInputs.cache
+C:\GitHub\Exercícios POO\MyFila\MyFila\obj\Debug\netcoreapp2.1\MyFila.AssemblyInfo.cs
+C:\GitHub\Exercícios POO\MyFila\MyFila\obj\Debug\netcoreapp2.1\MyFila.dll
+C:\GitHub\Exercícios POO\MyFila\MyFila\obj\Debug\netcoreapp2.1\MyFila.pdb
